@@ -3,4 +3,6 @@
 - [ ] Compte Gaspar  
 - [ ] Machine équipée  
 - [ ] Adresse e-mail  
-- [ ] Accréditations  
+- [ ] Accréditation  
+- [ ] Place de Travail  
+- [ ] Clé  
