@@ -1,4 +1,4 @@
-#Checklist
+#Checklist  
 ###STI-IT Support  
 - [ ] Compte Gaspar  
 - [ ] Machine équipée  
