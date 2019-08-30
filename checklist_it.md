@@ -1,19 +1,19 @@
-#Checklist  
+# Checklist  
 
-###STI-IT 
+### STI-IT 
 
-- [ ] Compte Gaspar  
+- [ ] Compte Gaspar
 - [ ] Carte Camipro
-- [ ] Accréditation  
-- [ ] Place de Travail  
-- [ ] Clé  
+- [ ] Accréditation
+- [ ] Place de Travail
+- [ ] Clé
 - [ ] Enregistrement du collaborateur dans le système des absences
 - [ ] Préparation de l'etiquette du casier pour le courrier
 - [ ] Formulaire FOBS (formation obligatoire de base en sécurité)
 - [ ] Formulaire commande abonnement 1/2 tarif cff
 - [ ] Machine équipée avec les accessoires 
 - [ ] Docking station si c'est un ordinateur portable
-- [ ] Adresse e-mail  
+- [ ] Adresse e-mail
 - [ ] Casque Jabber ou Telephone
 - [ ] Numéro de téléphone
 
