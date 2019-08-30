@@ -1,5 +1,7 @@
 #Checklist  
+
 ###STI-IT 
+
 - [ ] Compte Gaspar  
 - [ ] Carte Camipro
 - [ ] Accréditation  
@@ -10,7 +12,7 @@
 - [ ] Formulaire FOBS (formation obligatoire de base en sécurité)
 - [ ] Formulaire commande abonnement 1/2 tarif cff
 - [ ] Machine équipée avec les accessoires 
-- [ ] Docstation si c'est un ordinateur portable
+- [ ] Docking station si c'est un ordinateur portable
 - [ ] Adresse e-mail  
-- [ ] Casque Jaber ou Telephone
+- [ ] Casque Jabber ou Telephone
 - [ ] Numéro de téléphone
